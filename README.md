@@ -12,32 +12,10 @@
 
 # 🛡️ Google Cybersecurity Projects
 
-Welcome to the **Google Cybersecurity Projects** repository by [LinuxRonin](https://github.com/LinuxRonin)! This collection comprises various cybersecurity-related documents and worksheets developed during Google's cybersecurity training programs. Each file serves as a insight to different projects I have taken on for programs and training!
-
-## 📂 Contents
-
-- [Access Control Worksheet](#access-control-worksheet)
-- [Applying Filters to SQL Queries](#applying-filters-to-sql-queries)
-- [Compliance Checklist (BOTIUM TOYS)](#compliance-checklist-botium-toys)
-- [Controls Assessment (BOTIUM TOYS)](#controls-assessment-botium-toys)
-- [Cybersecurity Incident Report Network Traffic Analysis](#cybersecurity-incident-report-network-traffic-analysis)
-- [Cybersecurity Incident Report](#cybersecurity-incident-report)
-- [Data Leak Worksheet](#data-leak-worksheet)
-- [File Updates Algo Project](#file-updates-algo-project)
-- [File Permissions in Linux Project](#file-permissions-in-linux-project)
-- [Final Report](#final-report)
-- [Incident Report Analysis (NIST CSF)](#incident-report-analysis-nist-csf)
-- [Network Traffic Analysis Template](#network-traffic-analysis-template)
-- [PASTA Worksheet](#pasta-worksheet)
-- [Parking Lot USB Exercise](#parking-lot-usb-exercise)
-- [Security Incident Report (Port 80 Injections)](#security-incident-report-port-80-injections)
-- [Security Risk Assessment Report (Network Hardening)](#security-risk-assessment-report-network-hardening)
-- [Stakeholder Memorandum](#stakeholder-memorandum)
-- [Vulnerability Assessment Report](#vulnerability-assessment-report)
-- [Wireshark vs TCPdump](#wireshark-vs-tcpdump)
+Welcome to the **Cybersecurity Projects** repository by [LinuxRonin](https://github.com/LinuxRonin)! This collection comprises various cybersecurity-related documents and worksheets developed during numerous cybersecurity training programs. Each file serves as a insight to different projects I have taken on for programs and training!
 
 
-## 🕵️‍♂️ Explore the Projects
+## 🕵️‍♂️ Explore the Google Projects
 
 Click on any project below to delve deeper into its contents:
 
@@ -62,4 +40,6 @@ Click on any project below to delve deeper into its contents:
 - [Wireshark vs TCPdump](Wireshark%20vs%20TCPdump.md)
 
 
-   
+## 📂 Misc. Projects & Contents
+- To Be Continued..
+
