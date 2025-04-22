@@ -19,26 +19,21 @@ Welcome to the **Cybersecurity Projects** repository by [LinuxRonin](https://git
 
 Click on any project below to delve deeper into its contents:
 
-- [Access Control Worksheet](Access%20Control%20Worksheet.md)
-- [Applying Filters to SQL Queries](Applying%20Filters%20to%20SQL%20Queries.md)
-- [Compliance Checklist (BOTIUM TOYS)](Compliance%20Checklist%20(BOTIUM%20TOYS).md)
-- [Controls Assessment (BOTIUM TOYS)](Controls%20Assessment%20(BOTIUM%20TOYS).md)
-- [Cybersecurity Incident Report Network Traffic Analysis](Cybersecurity%20Incident%20Report%20Network%20Traffic%20Analysis.md)
-- [Cybersecurity Incident Report](Cybersecurity%20Incident%20Report.md)
-- [Data Leak Worksheet](Data%20Leak%20Worksheet.md)
-- [File Updates Algo Project](File%20Updates%20Algo%20Project.md)
-- [File Permissions in Linux Project](File%20Permissions%20in%20Linux%20Project.md)
-- [Final Report](Final%20Report.md)
-- [Incident Report Analysis (NIST CSF)](Incident%20Report%20Analysis%20(NIST%20CSF).md)
-- [Network Traffic Analysis Template](Network%20Traffic%20Analysis%20Template.md)
-- [PASTA Worksheet](PASTA%20Worksheet.md)
-- [Parking Lot USB Exercise](Parking%20Lot%20USB%20Exercise.md)
-- [Security Incident Report (Port 80 Injections)](Security%20Incident%20Report%20(Port%2080%20Injections).md)
-- [Security Risk Assessment Report (Network Hardening)](Security%20Risk%20Assessment%20Report%20(Network%20Hardening).md)
-- [Stakeholder Memorandum](Stakeholder%20Memorandum.md)
-- [Vulnerability Assessment Report](Vulnerability%20Assessment%20Report.md)
-- [Wireshark vs TCPdump](Wireshark%20vs%20TCPdump.md)
-
+- [Access Control Worksheet](Python Projects/Access control worksheet.md)
+- [Applying Filters to SQL Queries](Python Projects/Applying filters to SQL Queries.md)
+- [Compliance Checklist (BOTIUM TOYS)](Python Projects/Compliance checklist (BOTIUM TOYS).md)
+- [Controls Assessment (BOTIUM TOYS)](Python Projects/Controls assessment (BOTIUM TOYS).md)
+- [Cybersecurity Incident Report Network Traffic Analysis](Python Projects/Cybersecurity incident report network traffic analysis.md)
+- [Cybersecurity Incident Report](Python Projects/Cybersecurity incident report.md)
+- [Data Leak Worksheet](Python Projects/Data leak worksheet.md)
+- [File Updates Algo Project](Python Projects/File Updates Algo Project.md)
+- [File Permissions in Linux Project](Python Projects/File permissions in Linux project.md)
+- [Final Report](Python Projects/Final report.md)
+- [Incident Report Analysis (NIST CSF)](Python Projects/Incident-report-analysis (NIST CSF).md)
+- [Network Traffic Analysis Template](Python Projects/Network Traffic Analysis Template.md)
+- [PASTA Worksheet](Python Projects/PASTA worksheet.md)
+- [Parking Lot USB Exercise](Python Projects/Parking lot USB exercise.md)
+- [Security Incident Report (Port 80 Injections)](Python Projects/Security-incident-report-(Port 80 Injections).md)
 
 ## 📂 Misc. Projects & Contents
 - To Be Continued..
